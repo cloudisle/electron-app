@@ -1,6 +1,6 @@
 {
   "name": "@cloudisle/electron-app",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Opinionated framework for scaffolding an Electron JS App with a typed node API interface exposed to the renderer",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
