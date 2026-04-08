@@ -1,6 +1,6 @@
-import { App, app, AppConfig } from './index';
-import { api } from './api';
-import { channel } from './channel';
+import { App, app, AppConfig } from '../src/index';
+import { api } from '../src/api';
+import { channel } from '../src/channel';
 
 // Reset singleton between tests
 beforeEach(() => {

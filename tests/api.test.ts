@@ -1,4 +1,4 @@
-import { api, initialize, expose } from './api';
+import { api, initialize, expose } from '../src/api';
 
 // Minimal mocks for Electron types
 const mockHandle = jest.fn();

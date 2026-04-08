@@ -1,4 +1,4 @@
-import { channel, MainChannel, RendererChannel } from './channel';
+import { channel, MainChannel, RendererChannel } from '../src/channel';
 
 // Mock BrowserWindow
 const mockSend = jest.fn();
